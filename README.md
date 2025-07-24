@@ -57,12 +57,12 @@ You can explore and collaborate on the project live at:
 Want to contribute? Fork the repo, create a feature branch, and raise a pull request!
 
 ---
-![Screenshot 18](images/Screenshot%20(18).png)
-![Screenshot 19](images/Screenshot%20(19).png)
-![Screenshot 20](images/Screenshot%20(20).png)
-![Screenshot 21](images/Screenshot%20(21).png)
-![Screenshot 22](images/Screenshot%20(22).png)
-![Screenshot 23](images/Screenshot%20(23).png)
-![Screenshot 24](images/Screenshot%20(24).png)
-![Screenshot 25](images/Screenshot%20(25).png)
+![Screenshot 18](Screenshots/Screenshot%20(18).png)
+![Screenshot 19](Screenshots/Screenshot%20(19).png)
+![Screenshot 20](Screenshots/Screenshot%20(20).png)
+![Screenshot 21](Screenshots/Screenshot%20(21).png)
+![Screenshot 22](Screenshots/Screenshot%20(22).png)
+![Screenshot 23](Screenshots/Screenshot%20(23).png)
+![Screenshot 24](Screenshots/Screenshot%20(24).png)
+![Screenshot 25](Screenshots/Screenshot%20(25).png)
 
